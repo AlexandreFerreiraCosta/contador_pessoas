@@ -24,7 +24,6 @@ class _HomeState extends State<Home> {
     if(_pessoas < 0){
        _infoTexto = "Valor invalido !!";
        _pessoas = 0;
-       _audioPlayer.play("audio/alert_high-intensity.wav");
     }else if(_pessoas < 10){
       _infoTexto = "Pode entrar !!";
     }else{
