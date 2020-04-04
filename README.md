@@ -19,3 +19,5 @@ Este aplicativo tem por objetivo geral controlar a quantidade de pessoas de um r
 ## Configurações do projetos nas IDE
 
 Este projeto é um projeto Flutter. Com isso, o processo de configuração dele é o padrão de qualquer projeto Flutter.
+
+![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/path/to/image.gif)
