@@ -2,6 +2,8 @@
 
 Este aplicativo tem por objetivo geral controlar a quantidade de pessoas de um restaurante.
 
+![Tela Aplicação](https://github.com/AlexandreFerreiraCosta/contador_pessoas/blob/master/images/contador_pessoas.gif)
+
 ## Requisitos
 
  * Android Studio
@@ -19,5 +21,3 @@ Este aplicativo tem por objetivo geral controlar a quantidade de pessoas de um r
 ## Configurações do projetos nas IDE
 
 Este projeto é um projeto Flutter. Com isso, o processo de configuração dele é o padrão de qualquer projeto Flutter.
-
-![Tela Aplicação](https://github.com/AlexandreFerreiraCosta/contador_pessoas/blob/master/images/contador_pessoas.gif)
