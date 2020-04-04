@@ -16,6 +16,6 @@ Este aplicativo tem por objetivo geral controlar a quantidade de pessoas de um r
 * Instalar e configurar o Flutter SDK
 * Configurar as Variáveis de Ambiente
 
-## Configurações dos projetos nas IDEs
+## Configurações do projetos nas IDE
 
 Este projeto é um projeto Flutter. Com isso, o processo de configuração dele é o padrão de qualquer projeto Flutter.
