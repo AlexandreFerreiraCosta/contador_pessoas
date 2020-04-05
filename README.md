@@ -1,6 +1,7 @@
 # CONTADOR DE PESSOAS
 
 Este aplicativo tem por objetivo geral controlar a quantidade de pessoas de um restaurante.
+    Será efetuado melhorias.
 
 ![Tela Aplicação](https://github.com/AlexandreFerreiraCosta/contador_pessoas/blob/master/images/contador_pessoas.gif)
 
